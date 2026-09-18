@@ -1,0 +1,310 @@
+[
+  {
+    "word": "admiration",
+    "definition": "a feeling of respect for and approval of somebody/something",
+    "part_of_speech": "noun",
+    "sentences": [
+      "This sentiment emerges when an individual recognizes exceptional qualities or virtuous actions in another entity.",
+      "It manifests as a respectful approval that acknowledges superiority without envy or resentment."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "amusement",
+    "definition": "the feeling that you have when you enjoy something that is funny",
+    "part_of_speech": "noun",
+    "sentences": [
+      "A lighthearted mental response triggered by perceiving incongruity or humor in an observation.",
+      "This reaction manifests as a pleasant sense of entertainment without deep emotional involvement."
+    ],
+    "attempts": 2,
+    "clean": true
+  },
+  {
+    "word": "anger",
+    "definition": "the strong feeling that you have when something has happened that you think is bad and unfair",
+    "part_of_speech": "noun",
+    "sentences": [
+      "This intense emotional reaction emerges when an individual perceives a transgression as unjust or harmful to their interests.",
+      "It manifests as a surge of hostility directed toward the perceived source of the wrongdoing."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "annoyance",
+    "definition": "the feeling of being slightly angry",
+    "part_of_speech": "noun",
+    "sentences": [
+      "It is a mild irritation triggered by persistent minor inconveniences or repeated disturbances that disrupt one's focus or comfort.",
+      "This emotional state represents a low-level frustration where patience wanes but does not yet escalate to full anger."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "approval",
+    "definition": "the feeling that somebody/something is good or acceptable; a positive opinion of somebody/something",
+    "part_of_speech": "noun",
+    "sentences": [
+      "This mental state represents a cognitive endorsement where an individual deems a specific person or action to be satisfactory and worthy of support.",
+      "It typically emerges when observed behavior aligns with established standards or expectations, signaling social validation rather than mere passive acceptance."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "caring",
+    "definition": "kind, helpful and showing that you care about other people",
+    "part_of_speech": "adjective",
+    "sentences": [
+      "This disposition involves a genuine concern for the well-being of others, prompting actions that are kind and helpful toward their welfare.",
+      "It typically emerges from an empathetic recognition of another's needs, driving individuals to offer support without expectation of reward."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "confusion",
+    "definition": "a state of not being certain about what is happening, what you should do, what something means, etc.",
+    "part_of_speech": "noun",
+    "sentences": [
+      "This mental condition emerges when conflicting information prevents clear comprehension or decisive action.",
+      "It represents a temporary suspension of understanding where logical pathways remain obscured by ambiguity."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "curiosity",
+    "definition": "a strong desire to know about something",
+    "part_of_speech": "noun",
+    "sentences": [
+      "This cognitive drive emerges when an individual encounters unknown information or unresolved questions that create a gap in their understanding.",
+      "It motivates active investigation and exploration as the mind seeks to fill these gaps with new knowledge or clarity."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "desire",
+    "definition": "a strong wish to have or do something",
+    "part_of_speech": "noun",
+    "sentences": [
+      "This internal drive compels an individual to pursue specific objects, outcomes, or actions they perceive as beneficial or fulfilling.",
+      "It typically emerges from a recognition of need or aspiration that motivates purposeful behavior toward acquisition or achievement."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "disappointment",
+    "definition": "the feeling of being sad because something has not happened or been as good, successful, etc. as you expected or hoped",
+    "part_of_speech": "noun",
+    "sentences": [
+      "This condition emerges when reality fails to align with prior expectations or anticipations regarding an outcome.",
+      "It manifests as a sense of loss or dissatisfaction stemming from the gap between what was hoped for and what actually occurred."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "disapproval",
+    "definition": "a feeling that you do not like an idea, an action or somebody’s behaviour because you think it is bad, not suitable or going to have a bad effect on somebody else",
+    "part_of_speech": "noun",
+    "sentences": [
+      "This mental posture emerges when an individual judges a specific action or idea as fundamentally flawed, unsuitable, or potentially harmful to others.",
+      "It represents a critical stance rooted in the belief that the observed behavior violates accepted standards or will lead to negative consequences."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "disgust",
+    "definition": "a strong feeling of dislike for somebody/something that you feel is unacceptable, or for something that looks, smells, etc. unpleasant",
+    "part_of_speech": "noun",
+    "sentences": [
+      "This aversion stems from perceiving something as morally repugnant or physically offensive, often triggering a visceral rejection response to contaminants or violations of social norms.",
+      "It manifests as an intense urge to distance oneself from the perceived source, driven by an instinctual desire to avoid contamination or uphold ethical boundaries."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "embarrassment",
+    "definition": "shy, uncomfortable or guilty feelings; a feeling of being embarrassed",
+    "part_of_speech": "noun",
+    "sentences": [
+      "This psychological condition manifests as acute self-consciousness resulting from a perceived violation of social norms or exposure of personal inadequacy to others.",
+      "It typically arises during awkward interactions where an individual feels their dignity has been compromised or they have failed to meet expected behavioral standards."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "excitement",
+    "definition": "the state of feeling or showing happiness and enthusiasm",
+    "part_of_speech": "noun",
+    "sentences": [
+      "This condition involves a surge of positive energy and eager anticipation triggered by the prospect of a desirable event or outcome.",
+      "It manifests as an heightened state of alertness and joy that compels individuals to engage actively with their surroundings."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "fear",
+    "definition": "the bad feeling that you have when you are in danger or when a particular thing frightens you",
+    "part_of_speech": "noun",
+    "sentences": [
+      "It is an intense emotional response triggered by the perception of imminent threat or harm to oneself or others.",
+      "This reaction manifests as a state of alarm that motivates immediate action to ensure safety and survival."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "gratitude",
+    "definition": "the feeling of being grateful and wanting to express your thanks",
+    "part_of_speech": "noun",
+    "sentences": [
+      "This emotional response emerges when an individual recognizes a benevolent act performed by another party without expectation of return.",
+      "It manifests as a sincere desire to acknowledge the giver and reciprocate the kindness through words or future actions."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "grief",
+    "definition": "a very sad feeling, especially when somebody dies",
+    "part_of_speech": "noun",
+    "sentences": [
+      "This profound sorrow emerges following the loss of a loved one through death or separation.",
+      "It represents a deep emotional response characterized by intense longing and distress over the absence of that person."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "joy",
+    "definition": "a feeling of great happiness",
+    "part_of_speech": "noun",
+    "sentences": [
+      "This profound sense of well-being emerges when individuals experience fulfillment through positive events or meaningful connections.",
+      "It represents a peak emotional state characterized by deep contentment and an overwhelming desire for the moment to continue indefinitely."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "love",
+    "definition": "a very strong feeling of liking and caring for somebody/something, especially a member of your family or a friend",
+    "part_of_speech": "noun",
+    "sentences": [
+      "It is an intense emotional bond characterized by deep affection, devotion, and a profound desire for another's well-being.",
+      "This connection typically develops through shared experiences, mutual respect, and consistent companionship over time."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "nervousness",
+    "definition": "the feeling of being anxious about something or afraid of something",
+    "part_of_speech": "noun",
+    "sentences": [
+      "This condition manifests as a state of unease or apprehension regarding anticipated outcomes or potential threats.",
+      "It typically emerges in situations involving uncertainty, pressure, or the fear of negative evaluation by others."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "optimism",
+    "definition": "a feeling that good things will happen and that something will be successful",
+    "part_of_speech": "noun",
+    "sentences": [
+      "A mental disposition characterized by a confident expectation that future outcomes will be favorable or beneficial.",
+      "This attitude typically emerges from an innate belief in one's ability to navigate challenges toward a positive resolution."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "pride",
+    "definition": "a feeling of being pleased or satisfied that you get when you or people who are connected with you have done something well or own something that other people admire",
+    "part_of_speech": "noun",
+    "sentences": [
+      "This internal satisfaction emerges when an individual recognizes personal achievement or the accomplishments of their group, leading to a sense of self-worth derived from recognized excellence.",
+      "It functions as a positive emotional response to possessing qualities or attaining status that aligns with societal standards of admiration and success."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "realization",
+    "definition": "the process of becoming aware of something",
+    "part_of_speech": "noun",
+    "sentences": [
+      "This mental shift occurs when previously abstract information suddenly coalesces into clear understanding.",
+      "It typically arises after a period of contemplation or observation leads to a moment of sudden clarity."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "relief",
+    "definition": "the feeling of happiness that you have when something unpleasant stops or does not happen",
+    "part_of_speech": "noun",
+    "sentences": [
+      "This sensation emerges as a profound psychological easing following the cessation of distress or the avoidance of an anticipated hardship.",
+      "It represents a distinct shift from tension to comfort, marked by the recognition that a negative outcome has been successfully evaded."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "remorse",
+    "definition": "the feeling of being extremely sorry for something wrong or bad that you have done",
+    "part_of_speech": "noun",
+    "sentences": [
+      "This profound regret stems from recognizing one's own responsibility for a harmful action or moral failure.",
+      "It manifests as an intense desire to atone for the damage caused by past conduct."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "sadness",
+    "definition": "the feeling of being sad",
+    "part_of_speech": "noun",
+    "sentences": [
+      "This emotional condition manifests as a profound sense of loss, disappointment, or despair often triggered by grief, failure, or unmet expectations.",
+      "It represents a heavy internal state characterized by sorrow and melancholy that lingers long after the initial cause has passed."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "surprise",
+    "definition": "an event, a piece of news, etc. that is unexpected or that happens suddenly",
+    "part_of_speech": "noun",
+    "sentences": [
+      "This reaction occurs when an event defies established expectations or arrives with sudden intensity.",
+      "It functions as a cognitive jolt that disrupts routine awareness before understanding catches up to the new reality."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "neutral",
+    "definition": "not supporting or helping either side in a disagreement, competition, etc.",
+    "part_of_speech": "adjective",
+    "sentences": [
+      "It denotes an absence of partiality where no allegiance is pledged to any opposing faction within a conflict or contest.",
+      "This stance typically emerges when impartiality is required for fairness or when a participant lacks the inclination to favor one outcome over another."
+    ],
+    "attempts": 1,
+    "clean": true
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "word": "admiration",
+    "definition": "a feeling of respect for and approval of somebody/something",
+    "part_of_speech": "noun",
+    "sentences": [
+      "Her eyes tracked his every movement with a quiet reverence, as if he were the first sight she had ever seen.",
+      "She held her breath when he spoke, nodding slowly to absorb each word like precious water."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "amusement",
+    "definition": "the feeling that you have when you enjoy something that is funny",
+    "part_of_speech": "noun",
+    "sentences": [
+      "A snort escapes before I can clamp my lips shut.",
+      "The corner of my mouth twitches upward despite my best efforts to remain serious."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "anger",
+    "definition": "the strong feeling that you have when something has happened that you think is bad and unfair",
+    "part_of_speech": "noun",
+    "sentences": [
+      "The coffee cup shattered against the wall, spraying hot liquid across my knuckles as I ignored the sting.",
+      "My jaw locked tight enough to crack a tooth, forcing the scream back down into a roar that vibrated in my chest."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "annoyance",
+    "definition": "the feeling of being slightly angry",
+    "part_of_speech": "noun",
+    "sentences": [
+      "The fly’s persistent hum drilled into his temple as he tapped his foot against the floorboard in a frantic, staccato rhythm.",
+      "He exhaled sharply through his nose, rolling his eyes upward before snatching up the crumpled paper to read it once more."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "approval",
+    "definition": "the feeling that somebody/something is good or acceptable; a positive opinion of somebody/something",
+    "part_of_speech": "noun",
+    "sentences": [
+      "The corner of her mouth lifts into a slow, deliberate nod while her eyes crinkle with genuine warmth.",
+      "She gives a firm thumbs-up, signaling that every detail has met her exacting standards."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "caring",
+    "definition": "kind, helpful and showing that you care about other people",
+    "part_of_speech": "adjective",
+    "sentences": [
+      "She tucked the frayed blanket ends beneath his chin and held his hand while he slept.",
+      "Her thumb traced the rough callus on her palm, a silent promise to stay awake if he needed water."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "confusion",
+    "definition": "a state of not being certain about what is happening, what you should do, what something means, etc.",
+    "part_of_speech": "noun",
+    "sentences": [
+      "The instructions blurred into meaningless shapes as I stared at the blank page, my pen hovering uselessly above the paper.",
+      "I tried to trace the path back to where I had started, but every landmark seemed shifted and wrong under the harsh light."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "curiosity",
+    "definition": "a strong desire to know about something",
+    "part_of_speech": "noun",
+    "sentences": [
+      "The book lies open on the table, its pages fluttering slightly as if inviting me to lean closer and peek at the hidden text.",
+      "My hand hovers over the edge, trembling with an irresistible urge to turn the next page and uncover what secrets lie behind it."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "desire",
+    "definition": "a strong wish to have or do something",
+    "part_of_speech": "noun",
+    "sentences": [
+      "My fingers hovered inches above the glass, trembling with the urge to break the barrier and claim what lay within.",
+      "The scent of the object made my mouth water, pulling every muscle taut toward an inevitable reach."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "disappointment",
+    "definition": "the feeling of being sad because something has not happened or been as good, successful, etc. as you expected or hoped",
+    "part_of_speech": "noun",
+    "sentences": [
+      "The envelope landed on the mat with a flat, hollow thud instead of the crisp rustle he had rehearsed in his head.",
+      "He stared at the unmarked paper for a long moment before sliding it back into the mailbox, leaving the latch to click shut without opening it again."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "disapproval",
+    "definition": "a feeling that you do not like an idea, an action or somebody’s behaviour because you think it is bad, not suitable or going to have a bad effect on somebody else",
+    "part_of_speech": "noun",
+    "sentences": [
+      "The woman’s lips thinned into a sharp line as she adjusted her glasses and stared at the spilled ink.",
+      "She slowly pushed the tray away, turning her back on the trembling student."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "disgust",
+    "definition": "a strong feeling of dislike for somebody/something that you feel is unacceptable, or for something that looks, smells, etc. unpleasant",
+    "part_of_speech": "noun",
+    "sentences": [
+      "The sour stench of rotting meat hits the back of my throat like a physical blow.",
+      "I gag and turn away, pressing my hand hard against my mouth to stop the retching reflex."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "embarrassment",
+    "definition": "shy, uncomfortable or guilty feelings; a feeling of being embarrassed",
+    "part_of_speech": "noun",
+    "sentences": [
+      "Heat rushes to my cheeks as I lower my gaze to the scuffed toes of my shoes.",
+      "The floor tiles seem to stretch infinitely, offering no escape from the sudden silence."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "excitement",
+    "definition": "the state of feeling or showing happiness and enthusiasm",
+    "part_of_speech": "noun",
+    "sentences": [
+      "He paces the room with restless energy, his fingers drumming an urgent rhythm against his thigh.",
+      "The clock ticks forward like a countdown to something magnificent that cannot arrive soon enough."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "fear",
+    "definition": "the bad feeling that you have when you are in danger or when a particular thing frightens you",
+    "part_of_speech": "noun",
+    "sentences": [
+      "My knuckles turned white as I gripped the doorframe, every muscle locked tight against the darkness beyond.",
+      "The air grew thin and cold, making my breath hitch in shallow, jagged gasps that refused to settle."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "gratitude",
+    "definition": "the feeling of being grateful and wanting to express your thanks",
+    "part_of_speech": "noun",
+    "sentences": [
+      "He pressed his palm flat against the warm brick wall, letting the lingering heat seep into his skin like a quiet blessing.",
+      "A single tear tracked through the dust on his cheek as he whispered a breathy thank-you to the empty room."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "grief",
+    "definition": "a very sad feeling, especially when somebody dies",
+    "part_of_speech": "noun",
+    "sentences": [
+      "The coffee cup sits cold and untouched on the table, its rim stained with the dried circles of mornings past.",
+      "I fold a shirt that no longer holds warmth, pressing my face into the fabric until the scent fades."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "joy",
+    "definition": "a feeling of great happiness",
+    "part_of_speech": "noun",
+    "sentences": [
+      "Sunlight spills across the kitchen floor, catching the dust motes like suspended gold as she spins until her skirt flares wide.",
+      "She laughs, a bright, unspooling sound that rises to meet the birdsong outside the window."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "love",
+    "definition": "a very strong feeling of liking and caring for somebody/something, especially a member of your family or a friend",
+    "part_of_speech": "noun",
+    "sentences": [
+      "The coffee cup stays warm in his hands long after the last sip is gone, held close like a talisman against the chill of an empty room.",
+      "He smiles at the photograph not with pride, but with the quiet, steady relief of someone who has found exactly where they belong."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "nervousness",
+    "definition": "the feeling of being anxious about something or afraid of something",
+    "part_of_speech": "noun",
+    "sentences": [
+      "My shoe laces felt like frayed nerves unraveling under my fingers, each knot tightening with a stubborn refusal to yield.",
+      "I kept checking the empty hallway behind me, half-expecting footsteps that never came but always seemed imminent."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "optimism",
+    "definition": "a feeling that good things will happen and that something will be successful",
+    "part_of_speech": "noun",
+    "sentences": [
+      "The seedling pushes its green head through the cracked pavement, unbothered by the weight above.",
+      "She plants the sapling despite the storm clouds gathering on the horizon."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "pride",
+    "definition": "a feeling of being pleased or satisfied that you get when you or people who are connected with you have done something well or own something that other people admire",
+    "part_of_speech": "noun",
+    "sentences": [
+      "He stood before the mirror, smoothing the stiff fabric of his jacket and letting out a long, steady breath.",
+      "The faint smile lingered on his lips as he watched his reflection straighten its shoulders."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "realization",
+    "definition": "the process of becoming aware of something",
+    "part_of_speech": "noun",
+    "sentences": [
+      "The coffee cup slips from my fingers, shattering on the tiles as I stare at the empty chair.",
+      "A cold weight settles in my chest while I whisper that name to the silence."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "relief",
+    "definition": "the feeling of happiness that you have when something unpleasant stops or does not happen",
+    "part_of_speech": "noun",
+    "sentences": [
+      "The heavy iron lock clicked shut with finality, silencing the frantic pounding against the door just as quickly as it began.",
+      "A long exhale escaped her lips, carrying away the tightness that had held her chest rigid for hours."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "remorse",
+    "definition": "the feeling of being extremely sorry for something wrong or bad that you have done",
+    "part_of_speech": "noun",
+    "sentences": [
+      "The screen flickers with the blue light of an unsendable draft I typed three hours ago.",
+      "My thumb hovers over the delete key, trembling like a bird trapped against glass."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "sadness",
+    "definition": "the feeling of being sad",
+    "part_of_speech": "noun",
+    "sentences": [
+      "The cold coffee sat untouched on the table while I stared at the crack in the ceiling for hours.",
+      "A heavy silence settled in my chest, pulling me down to the floor with an invisible weight."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "surprise",
+    "definition": "an event, a piece of news, etc. that is unexpected or that happens suddenly",
+    "part_of_speech": "noun",
+    "sentences": [
+      "The heavy door swung open to reveal a stranger’s face where I expected only shadow.",
+      "My breath hitched in my throat as the familiar room suddenly held unfamiliar shapes."
+    ],
+    "attempts": 1,
+    "clean": true
+  },
+  {
+    "word": "neutral",
+    "definition": "not supporting or helping either side in a disagreement, competition, etc.",
+    "part_of_speech": "adjective",
+    "sentences": [
+      "The judge sits with an unblinking gaze, letting both lawyers speak their piece without a nod or frown to show preference.",
+      "His notes are recorded with equal care, neither page thickening with annotations for one side while the other remains sparse and light."
+    ],
+    "attempts": 1,
+    "clean": true
+  }
+]
