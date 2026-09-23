@@ -1,2 +1,24 @@
 .venv/
 .md
+
+# Python bytecode / caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor / IDE
+.vscode/
+
+# Hugging Face Trainer outputs & checkpoints
+checkpoint-*/
+minilm-goemotions-*/
+runs/
+wandb/
+logs/
+
+# OS junk
+.DS_Store
+Thumbs.db
